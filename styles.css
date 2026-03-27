@@ -47,8 +47,20 @@ div {
 .footer-credit {
     display: inline;
 }
-
-
-
+.b{
+  display:block;
+}
+.i{
+    display:inline;
+}
+img{
+    display:inline-block;
+    width:151px;
+    height:149px;
+    padding:22px;
+    background-color:pink;
+    border:2px solid navy;
+    margin:20px;
+}
 
 
